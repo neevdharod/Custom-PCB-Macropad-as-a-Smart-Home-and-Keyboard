@@ -27,3 +27,19 @@ Includes:
 - Rotary encoder knob
 - 2.42 Inch OLED display
 - XIAO ESP32S3
+
+# Why/How
+
+I created this project because I wanted to have a first hand look on how I can use PCBs. I didn't want to make just a basic macropad, since that would be boring and uninteresting, so I decided to add some extra features. This would also teach me some basics of PCB soldering and other things. 
+
+To create this project, first I will order the parts for this project.
+1. Then, I will first use a breadboard (which I have) to test out my components first. I will run some programs to check if it works, etc.
+2. If everything works, I will start moving to the PCB. I will solder on the pieces to the PCB.
+3. Then, I will run another program check to see if the PCB works.
+4. If the PCB works well, I will write a final program which includes the smart features and everything I want to add.
+5. I will now add the keybuttons onto the hotswap so I can do some testing.
+6. Finally, I will remeasure my components, adjust the CAD if needed, print the CADs and put the final project together.
+
+# Potential Challenges
+
+Some potential challenges I might have are the CAD being slightly off, since I am using AliExpress which is not very exact for their measurements. This can be easily fixable, since I have a digital caliper I can use to make sure my measurements and things are exact. Another challenge I might face is my soldering, since I have never soldered before, but one of my friends who solders alot will help me so this shouldn't be an issue. I will also practice soldering before trying on the PCB.
